@@ -1,0 +1,2 @@
+
+This is my maven project to learn how to clone it
